@@ -16,7 +16,7 @@ Grace days used for this assignment: 2
 Grace days remaining: 1/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
-No known bugs or incomplete parts. 
+AssertionError. Was not able to properly see test results. Was not able to fully complete def vowels or def cipher.  
 
 ## REFERENCES:
 https://book.pythontips.com/en/latest/ternary_operators.html
