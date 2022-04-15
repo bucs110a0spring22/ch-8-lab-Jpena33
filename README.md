@@ -8,18 +8,20 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+The program creates and uses a module to build strings out of characters. Part A creates a StringUtility class in a spearate module/file, takes a string as a parameter, and has __str__ pass all tests from the main driver code. Part B has vowels(), bothEnds(), fixStart(), asciiSum(), and cipher() pass all tests from the main driver code.   
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 2
 
-Grace days remaining: < # >/5
+Grace days remaining: 1/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+No known bugs or incomplete parts. 
 
 ## REFERENCES:
- < List any outside resources used >
-
+https://book.pythontips.com/en/latest/ternary_operators.html
+https://realpython.com/list-comprehension-python/
+https://www.datacamp.com/community/tutorials/modules-in-python
+https://colab.research.google.com/drive/1-ARJa7smk2cXLePDRJo9O28gWubDRm8E?usp=sharing
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+Was not able to do Extra Credit portion of lab.  
